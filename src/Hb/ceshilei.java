@@ -8,6 +8,7 @@ public class ceshilei {
         // 创建群主
         qunzhu qz = new qunzhu("小张",500);
         int i = 0;
+        int a = 0;
         // 创建群众
         qunzhong qz1 = new qunzhong("群众1",0);
         qunzhong qz2 = new qunzhong("群众2",0);
